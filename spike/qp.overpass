@@ -1,0 +1,7 @@
+[out:json][timeout:120];
+(
+  node["place"](50.05,7.30,50.32,7.62);
+  way["place"](50.05,7.30,50.32,7.62);
+  relation["place"](50.05,7.30,50.32,7.62);
+);
+out center tags;

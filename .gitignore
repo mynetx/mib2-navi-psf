@@ -1,0 +1,20 @@
+# Map data and derived extracts: copyrighted (HERE / VW), never commit
+*.psf
+*.pkl
+*.osm
+*.json
+*.geojson
+*.csv
+*.db
+spike/*.svg
+sdsrc/
+sdtest/
+spike/osm/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+._*
